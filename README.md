@@ -6,19 +6,19 @@ Some little Processing.js doodads I've made in the past for fun. Generally, clic
 
 ### fireflies (to keep you company on a warm summer night~):
 <br>
-![fireflies](https://thumbs.gfycat.com/PersonalVibrantDeermouse-size_restricted.gif)
+![fireflies](https://github.com/miranhpark/processing/blob/master/screenshots/fireflies.gif)
 <br>
 [\[Processing Sketch\]](https://www.openprocessing.org/sketch/510548)
 
 ### ntwk_lines (be judicious - not optimized for scaling to large n...):
 <br>
-![ntwk_lines](https://thumbs.gfycat.com/HorribleScentedBull-size_restricted.gif)
+![ntwk_lines](https://github.com/miranhpark/processing/blob/master/screenshots//ntwk_lines.gif)
 <br>
 [\[Processing Sketch\]](https://www.openprocessing.org/sketch/510550)
    
 ### fireworks (requires ddf's [minim](https://github.com/ddf/Minim) locally for silly sounds :)):
 <br>
-![fireworks](https://thumbs.gfycat.com/UntimelyCheapHarlequinbug-size_restricted.gif)
+![fireworks](https://github.com/miranhpark/processing/blob/master/screenshots/fireworks.gif)
 <br>
 [\[Processing Sketch\]](https://www.openprocessing.org/sketch/510547)
 
